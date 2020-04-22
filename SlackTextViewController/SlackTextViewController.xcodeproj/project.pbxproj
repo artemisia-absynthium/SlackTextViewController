@@ -242,7 +242,7 @@
 			};
 			buildConfigurationList = F5A7826E1BD0CEF300EC230B /* Build configuration list for PBXProject "SlackTextViewController" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
